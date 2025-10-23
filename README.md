@@ -13,7 +13,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchita-sahu-06&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="400">
       </td>
       <td align="center" valign="middle">
-        <img src="https://github.com/user-attachments/assets/69bd7a74-3166-4398-bb96-6385359daacb" alt="Profile" width="350" height="350" style="border-radius:50%;object-fit:cover;border:3px solid #7aa2f7;">
+        <img src="https://github.com/user-attachments/assets/c3971695-39d8-4f8b-84c9-437ae61d74a4" alt="Profile" width="350" height="350" style="border-radius:50%;object-fit:cover;border:3px solid #7aa2f7;">
       </td>
     </tr>
   </table>
